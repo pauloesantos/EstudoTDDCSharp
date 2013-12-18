@@ -1,6 +1,6 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDDTeste1", "TDDTeste1\TDDTeste1.csproj", "{A2665422-044F-4E29-972B-E8E533CEFD11}"
 EndProject
 Global
